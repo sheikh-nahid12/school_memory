@@ -1,0 +1,82 @@
+body{
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+.first_header{
+    background-color: #efebeb;
+    width: 100%;
+}
+.first_title{
+    text-align: center;
+    font-size: 22px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.main{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 20px;
+}
+
+.main_section{
+    font-size: 15px;
+    font-weight: 500;
+}
+.main_hero {
+
+}
+.heros_content {
+    font-size: 15px;
+    font-weight: 500;
+}
+.pc_log {
+    width: 100%;
+    
+}
+img {
+    height: auto;
+    width: 100%;
+    max-width: 800px;
+    margin-left: 200px;
+    margin-top: 50px;
+}
+.dt_page {
+    font-size: 12px;
+    margin-left: 500px;
+    text-decoration: underline;
+    font-weight: 300;
+}
+.last_pra {
+    margin-top: 30px;
+    margin-left: 350px;
+    line-height: 40px;
+    font-weight: 400;
+}
+.lst_pragra {
+    margin-top: 30px;
+    margin-left: 350px;
+    line-height: 40px;
+    font-weight: 400;
+}
+.footer_section {
+    background-color: #efebeb;
+    padding-top: 10px;
+}
+.last_footer {
+    color: black;
+    font-weight: 400;
+    margin-left: 50px;
+}
+.lt_font {
+    margin-left: 50px;
+}
+.li_lst {
+    margin-left: 50px;
+    margin-bottom: 15px;
+}
+.cpy_lst {
+    font-size: 13px;
+    margin-left: 40px;
+    padding-bottom: 5px;
+}
